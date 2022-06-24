@@ -4,3 +4,5 @@
 # In Terminal window (not console or script), type:
   # git reset --hard SHA
     # SHA is found at: Git tab > History > Desired commit 
+
+# Testing, adding comment
